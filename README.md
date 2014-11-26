@@ -1,0 +1,1 @@
+Generate a schematic for the Solectria motor speed encoder (labeled AMC_GERBER_F on PCB) in CADSOFT Eagle format.

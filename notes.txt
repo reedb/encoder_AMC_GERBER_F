@@ -1,0 +1,23 @@
+Parts:
+
+TI TLC274 Quad OPAMP - TLC274ID (SO-14, 10mv Voffset, -40 to 85 deg C)
+NATIONAL LM2901D Low power quad voltage comparator (SO-14)
+NXP BC846B Bipolar Transistor 65 V, 100 mA NPN , SOT-23
+Honeywell HLC1395-001 Optoswitch
+
+http://autos.groups.yahoo.com/group/solectria_ev/message/6414
+
+
+
+Header    DBM-9       Description
+1         -           Shield
+2         1           Test Point
+3         6           +6VDC
+4         2           Gnd
+5         7           B-     Lo
+6         3           A-     Lo
+7         8           B+     Hi
+8         4           A+     Hi
+9         9           Motor Temp (240 ohm to Gnd @ 70 degree F)
+10        5           Gnd
+
