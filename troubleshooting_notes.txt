@@ -18,8 +18,17 @@ Header    DBM-9       Description
 9         9           Motor Temp (240 ohm to Gnd @ 70 degree F)
 10        5           Gnd
 
-If your speed sensor is not working.
-1. Check if the the black and white disk is scratched. The sensor is VERY sensitive to scratches. 
-2. Check your connectors, there are a lot in the encoder path, none of which are rated for an automotive environment.
-3. Check the rotation sense select switch in the motor controller. The encoder signal is routed through it.
-4. Check LED's on encoder board for operation with power applied and encoder disk spinning. These are very faint but can be seen in the dark.
+If your speed sensor is not working:
+
+1. Check if the the black and white disk is scratched. The sensor is VERY 
+sensitive to scratches. Wear in the motor bearings can cause the encoder 
+disk to contact the opto-switches causing damage to both.
+
+2. Check your connectors, there are a lot in the encoder path, none of which 
+are rated for an automotive environment.
+
+3. Check the rotation sense select switch in the motor controller. The encoder 
+signal is routed through it.
+
+4. Check LED's on encoder board for operation with power applied and encoder 
+disk spinning. These are very faint but can be seen in the dark.
