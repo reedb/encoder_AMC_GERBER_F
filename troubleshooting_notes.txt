@@ -32,3 +32,6 @@ signal is routed through it.
 
 4. Check LED's on encoder board for operation with power applied and encoder 
 disk spinning. These are very faint but can be seen in the dark.
+
+5. Check that the motor controller reports the correct encoder signals (GZ*) 
+if you have amcmon.exe connected to the motor controller serial port.
